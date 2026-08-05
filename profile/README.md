@@ -1,3 +1,10 @@
+[![status: retired](https://opensource.twitter.dev/status/retired.svg)](https://opensource.twitter.dev/status/#retired)
+
+Repositories in the OSGP org have all been retired and are no longer actively developed or maintained.
+
+--------
+Previous status:
+
 [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)]()
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4104/badge)](https://bestpractices.coreinfrastructure.org/projects/4104)
 

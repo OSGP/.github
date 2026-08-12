@@ -4,7 +4,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-Dear interested Reader, this project has moved to Emeritius Status within Linux Foundation Energy. I.e. the project is currently inactive and are no longer actively developed or maintained. Should you want to contribute to the project, please contact Linux Foundation Energy @ https://lfenergy.org/about/contact/.
+Dear interested Reader, this project has moved to Emeritius Status within Linux Foundation Energy. I.e. the project is currently inactive and the repositories are no longer actively developed or maintained. Should you want to contribute to the project, please contact Linux Foundation Energy @ https://lfenergy.org/about/contact/.
 
 ---------
 
